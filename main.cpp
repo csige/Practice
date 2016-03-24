@@ -40,7 +40,6 @@ public:
 
 	//Jelenleg attól az esettől eltekintünk, amikor van két egymáson levő pont,
 	//ezért az elején átnézzük a pontokat és az azonosakból csak egyet hagyunk meg.
-	//Ha olyan inputtal akarjuk tesztelni, ahol ez lehetetlen, akkor ez a kód felesleges.
 	void removeIdenticalPoints(vector<point>& v){
 		for(unsigned int i = 0; i<v.size()-1;++i){
 			for(unsigned int j = i+1;j<v.size();j++){
