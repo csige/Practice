@@ -1,5 +1,4 @@
-//Ez egy konflict amit fel kell oldani!!:)fdsafdsafvdffasdf
-
+//Ez egy konflict amit fel kell oldani!!:)fdsafd feloldottam :) ffasdf
 
 #include<iostream>
 #include<vector>
