@@ -1,4 +1,4 @@
-//TestIssue modification
+//TestIssue modification. Ez egy konflict amit fel kell oldani!!:)
 
 
 #include<iostream>
