@@ -1,4 +1,3 @@
-//author: Csizy Gergely
 
 #include<iostream>
 #include<vector>
